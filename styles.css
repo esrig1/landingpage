@@ -17,6 +17,11 @@
     display: flex;
     align-items: left;
 }
+.section-one p{
+    max-width: 100%;
+    text-align: center;
+    
+}
 
 a {
     margin: 10px;
@@ -26,7 +31,8 @@ a {
 }
 
 h1 {
-    margin: 20px;                  
+    margin: 20px;
+
 }
 .section-one {
     display: flex;
